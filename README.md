@@ -1,6 +1,8 @@
 Caravel
 =======
 
+[![Join the chat at https://gitter.im/uchicago-sg/caravel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/uchicago-sg/caravel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is a lighter weight alternative to Dhaka, the previous iteration
 of the UChicago Marketplace. It is specifically designed for long-term, zero
 maintenance operation.
